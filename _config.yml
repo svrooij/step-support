@@ -1,0 +1,15 @@
+url: "https://🛴.svrooij.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Step met stepondersteuning" # the name of your site, e.g. ACME Corp.
+
+
+# Build settings
+# Build settings
+markdown: kramdown
+remote_theme: svrooij/jekyll-strap@main
+plugins:
+  - jekyll-feed
+  - jemoji
+
+
+exclude: ['docker-compose.yml', 'LICENSE', 'README.md', 'Gemfile', 'Gemfile.lock']
