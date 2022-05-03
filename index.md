@@ -10,6 +10,18 @@ Hier vind je een link naar de pagina van de overheid die de regels over steps me
 - [Rijksoverheid.nl - pagina over step met ondersteuning][step-overheid] laatst gecontroleerd op 3 mei 2022.
 - [PDF van pagina over steps met ondersteuning](/assets/docs/Regels_voor_elektrische_steps_met_trapondersteuning.pdf)
 
+### Reactie ministerie van Infrastructuur en Waterstaat
+
+> We stellen ons echter op het standpunt dat een tweewielig voertuig, dat met eigen spierkracht wordt voortbewogen en dat duidelijk op het fietspad thuishoort, in de categorie fiets hoort te vallen. (...) Door de aard van de ondersteuning vallen deze steppen dus ook in de categorie ‘fiets met trapondersteuning’ en hoeven ze niet apart als bijzondere bromfiets te worden toegelaten. U mag hiermee tot maximaal 25 km/u op de openbare weg rijden.
+>
+> DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
+>
+> Namens deze,
+>
+> Hoofd afdeling Verkeersveiligheid en Wegvervoer
+>
+> drs. M.N.E.J.G. Philippens
+
 ## Ombouwen
 
 Je kan legaal met je step de weg op, maar dan moet je hem wel even [ombouwen](https://stepombouw.nl). Je haalt je gashendel eraf en waar je gashendel zat komt wat elektronica die meet of je stept en vervolgens een paar seconden gas geeft. De meeste van ons doen dit met een Arduino (nano).
