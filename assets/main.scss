@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "./jekyll-strap.scss";
+@import "jekyll-strap";
 
 .hero-block {
   position: relative;
@@ -17,7 +17,7 @@
   width: 100%;
   height: 100%;
   opacity: 0.18;
-  background-image: url("/assets/img/pexels-artem-podrez-8989243.jpg");
+  background-image: url("/assets/img/pexels-artem-podrez-8989243-min.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;

@@ -4,12 +4,12 @@ title: "Step met stepondersteuning" # the name of your site, e.g. ACME Corp.
 repository: svrooij/step-support
 
 # Build settings
-# Build settings
 markdown: kramdown
 remote_theme: svrooij/jekyll-strap@main
 plugins:
   - jekyll-feed
   - jemoji
 
-
 exclude: ['docker-compose.yml', 'LICENSE', 'README.md', 'Gemfile', 'Gemfile.lock']
+sass:
+  style: compressed
