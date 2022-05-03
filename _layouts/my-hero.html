@@ -7,3 +7,13 @@ layout: default
 <div class="container mt-5">
 {{ content }}
 </div>
+
+<div class="container my-4">
+{% include repo-cards.html %}
+</div>
+
+<footer class="mt-5 p-4 text-center bg-light">
+  <small>Website door <a href="https://svrooij.io">Stephan van Rooij</a>
+    - Source on <a href="https://github.com/{{site.repository}}">Github</a>
+    - Photo by <a href="https://www.pexels.com/photo/a-man-wearing-jacket-standing-beside-a-kick-scooter-8989243/">Artem Podrez</a></small>
+</footer>

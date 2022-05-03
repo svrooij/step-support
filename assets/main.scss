@@ -1,0 +1,28 @@
+---
+---
+
+@import "./jekyll-strap.scss";
+
+.hero-block {
+  position: relative;
+  background-color: #7f7f7d;
+}
+
+.hero-block:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.18;
+  background-image: url("/assets/img/pexels-artem-podrez-8989243.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+
+.hero-block .hero-content {
+  position: relative;
+}

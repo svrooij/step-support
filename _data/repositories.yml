@@ -1,0 +1,7 @@
+- repo: https://github.com/PsychoMnts/Xiaomi-Scooter-Motion-Control
+  title: Scooter motion control by PsychoMnts
+  description: Original software, last update 2021-08-06
+- repo: https://github.com/kearfy/Xiaomi-Scooter-Motion-Control
+  title: Scooter motion control by kearfy
+  link: https://mi.kearfy.xyz/
+  description: Most active, last update 2022-02-20
