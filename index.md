@@ -3,12 +3,12 @@ layout: my-hero
 title: "Step met stepondersteuning"
 ---
 
-## Documenten
+## Links
 
-Hier vind je een link naar de pagina van de overheid die de regels over steps met ondersteuning beschrijft. Hier staat ook een pdf van de betreffende pagina, want de overheid [heeft deze pagina al ooit foutief verwijderd](https://svrooij.io/2022/03/30/step-met-ondersteuning/#step-met-trapondersteuning)
+Hier vind je een aantal links naar de pagina's van de overheid die deze regels over steps met ondersteuning beschrijven. Hier staat ook een pdf van de betreffende pagina's, want de overheid [heeft deze pagina al ooit foutief verwijderd](https://svrooij.io/2022/03/30/step-met-ondersteuning/#step-met-trapondersteuning)
 
-- [Rijksoverheid.nl - pagina over step met ondersteuning][step-overheid] laatst gecontroleerd op 3 mei 2022.
-- [PDF van pagina over steps met ondersteuning](/assets/docs/Regels_voor_elektrische_steps_met_trapondersteuning.pdf)
+- [Rijksoverheid.nl - pagina over step met ondersteuning][step-overheid] laatst gecontroleerd op 3 mei 2022. [PDF backup](/assets/docs/Regels_voor_elektrische_steps_met_trapondersteuning.pdf)
+- [Politieacademie - E-step met ondersteuning](https://webapps.politieacademie.nl/bijzondere-bromfiets#page-27413) onder [bijzondere bromfiets](https://webapps.politieacademie.nl/bijzondere-bromfiets) laatst gecontroleerd op 3 mei 2022 [PDF backup](/assets/docs/politieacademie_bijzondere_bromfiets.pdf)
 
 ### Reactie ministerie van Infrastructuur en Waterstaat
 
